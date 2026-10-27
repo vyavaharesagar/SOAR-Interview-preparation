@@ -1,5 +1,4 @@
 difference between a list and a tuple in Python?
-
 aws stack
 how do you secure the ec2 instance?
 how do you connect the aws secret manager?
