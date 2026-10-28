@@ -14,6 +14,7 @@ what is most challanging task in your career you have faced?
 why haven't used the script based your own soar tool instead of n8n?
 what is cloudwatch?
 what is soar? how you have implemented it?
+can u write a fast api code to route a request?
 
 
 arr = []
